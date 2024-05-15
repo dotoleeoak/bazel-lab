@@ -1,0 +1,10 @@
+autobahn==23.6.2
+    hyperlink==21.0.0
+    cryptography==3.4.7
+    txaio==21.2.1
+    setuptools==56.0.0
+    idna==2.10
+    cffi==1.16.0
+    pycparser==2.20
+
+six==1.16.0
